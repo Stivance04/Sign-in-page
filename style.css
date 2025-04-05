@@ -1,0 +1,37 @@
+button:hover{
+    background-color: darkgoldenrod;
+}
+body{
+    margin-top: 350px;
+}
+h1{
+    text-align: center;
+    background-color: chocolate;
+    margin-left: 500px;
+    margin-right: 500px;
+}
+div{
+    background-color: bisque;
+    margin-left: 500px;
+    margin-right: 500px;
+}
+input[type="text"],input[type="password"]{
+    margin-left:200px;
+    
+}
+button{
+    padding: 15px;
+    margin-left: 385px;
+    margin-top:20px;
+    border-radius:20px;
+    cursor: pointer;
+}
+#pic{
+    margin-left: 300px;
+    display: none;
+}
+p{
+    font-size: medium;
+    text-align: center;
+}
+
